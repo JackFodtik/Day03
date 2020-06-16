@@ -82,12 +82,6 @@ CSS 规则由两个主要的部分构成：选择器，以及一条或多条声�
 
 #### 5、CSS 选择器
 
-* 标签选择器
-
-> html 签即标签名本身就是选择器。
-> 
-> 要注意的是，标签选择器选择的是页面上的所有这个标签，而不是一个。
-
 * class 选择器
 
 > class 选择器又称为类选择器，就是给元素加上 class 属性和属性值，然后在选择器用 . 开头进行选择。
@@ -100,7 +94,7 @@ CSS 规则由两个主要的部分构成：选择器，以及一条或多条声�
 
 #### 案例：骰子布局
 
-<img src="https://upload-images.jianshu.io/upload_images/2982021-ef11d4930593d150.png">
+<img src="https://github.com/ai-course-team/Day03/blob/master/flex.png">
 
 
 
