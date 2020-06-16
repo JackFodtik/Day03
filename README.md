@@ -1,5 +1,5 @@
 # Day03
-HTML5+CSS3
+Flex 布局
 
 ### 一、代码编辑器——VSCode
 
@@ -92,10 +92,14 @@ CSS 规则由两个主要的部分构成：选择器，以及一条或多条声�
 
 ### 三、Flex 布局（重点）
 
+#### 怪异模式
+
+box-sizing: content-box;  /* 元素的真实宽度 = width + padding + border */
+
+box-sizing: border-box;   /* padding 和 border的值是包含在width内 */
+
 #### 案例：骰子布局
 
 <img src="https://github.com/ai-course-team/Day03/blob/master/flex.png">
-
-
 
 
